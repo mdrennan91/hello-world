@@ -6,7 +6,7 @@ The software itself prints "Hello World" to the screen. While it's a small first
 
 {Describe your purpose for creating this software.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/qoeEltW1Ci0)
 
 # Development Environment
 
