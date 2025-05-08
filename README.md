@@ -2,9 +2,7 @@
 
 This is a "Hello World" program created as the first step in building my personal software portfolio. It helps confirm my development environment is set up and connected to GitHub.
 
-The software itself prints "Hello World" to the screen. While it's a small first step, it represents the beginning of applying software engineering practices to everything I build moving forward.
-
-{Describe your purpose for creating this software.}
+The software itself prints has a print statement that displays "Hello World" in the terminal.
 
 [Software Demo Video](https://youtu.be/qoeEltW1Ci0)
 
