@@ -2,7 +2,7 @@
 
 This is a "Hello World" program created as the first step in building my personal software portfolio. It helps confirm my development environment is set up and connected to GitHub.
 
-The software itself prints has a print statement that displays "Hello World" in the terminal.
+The software has a print statement that displays "Hello World" in the terminal.
 
 [Software Demo Video](https://youtu.be/qoeEltW1Ci0)
 
