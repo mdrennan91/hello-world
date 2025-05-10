@@ -4,8 +4,6 @@ This is a "Hello World" program created as the first step in building my persona
 
 The software has a print statement that displays "Hello World" in the terminal.
 
-[Software Demo Video](https://youtu.be/qoeEltW1Ci0)
-
 # Development Environment
 
 I used Visual Studio Code to write and run the code, and Git to manage version control and upload the project to GitHub.
